@@ -9,7 +9,7 @@ Once we create an application usign `create-react-app` using template of `typesc
 ![alt text](./imgs/image.png)
 
 To resolve this issue we have to do some steps like
-1. Add `tsconfig.ts` file with below code
+1. Add `tsconfig.json` file with below code
     ```
     {
         "compilerOptions": {
